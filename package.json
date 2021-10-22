@@ -1,0 +1,17 @@
+{
+  "name": "AutoHour",
+  "version": "1.0.0",
+  "description": "helps awesome employees automate hours",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "John Glennan",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "puppeteer": "^10.4.0"
+  }
+}
