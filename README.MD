@@ -4,7 +4,7 @@
 - Running on node version 16
 - There is some setup required
 # Setup && Install
-1. Install dependencies npm i 
+1. Install dependencies `npm i`
 2. Make a `.env` file 
 3. Set PASSWORD=YOURPASSWORD
 4. Set EMAIL=YOUREMAILINLOWERCASE
